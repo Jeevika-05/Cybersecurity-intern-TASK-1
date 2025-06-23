@@ -7,6 +7,7 @@ This project demonstrates basic network reconnaissance using **Nmap** and **Wire
 
 - `screenshots/` – Terminal and Wireshark screenshots of nmap scan
 - `udp_server.py` – Python script simulating a UDP service on port 9999
+- `TASK 1.pdf` - Contains the complete report and step by step procedure,scan outputs
 - `README.md` – Summary of the task and contents
 
 ## 🛠 Tools Used
